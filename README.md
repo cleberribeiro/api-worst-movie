@@ -12,7 +12,7 @@ This API allows users to manage a database of movies, including uploading data f
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/cleberribeiro/api-worst-movie.git
    ```
 2. Navigate to the project directory:
    ```bash
